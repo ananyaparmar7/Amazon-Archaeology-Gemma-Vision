@@ -8,7 +8,7 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 📌 Key Features
+## Key Features
 
 - Sentinel-2 False Colour Composite (NIR-Red-Green) analysis  
 - NDVI prefiltering & automated tile generation (1 km² PNGs)  
@@ -19,7 +19,7 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 📊 Pipeline Overview
+## Pipeline Overview
 
 ### 1. **Tile Generation & Filtering**
 - Automatically chunks large raster into square tiles.
@@ -43,7 +43,7 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 🗺️ Visualization Outputs
+## 🗺Visualization Outputs
 
 - False Colour Composite maps  
 - Interactive detection maps (HTML)  
@@ -51,21 +51,21 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 🔍 Optional Steps (Planned / In Progress)
+## Optional Steps (Planned / In Progress)
 - Tile-level statistical filtering  
 - Hillshade or DEM analysis (API limitations prevented for now)  
 - Fine-tuning support for archaeological use cases  
 
 ---
 
-## 📂 Data Sources
+## Data Sources
 
 - **Sentinel-2** imagery (via AWS Open Data Registry)  
 - **Open-source models**: Gemma-3B-Vision (Unsloth weights)
 
 ---
 
-## 🚧 Requirements
+## Requirements
 
 - GPU recommended  
 - Python 3.8+  
@@ -73,7 +73,7 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 👤 Author Notes
+## Author Notes
 
 This repository was developed iteratively through Kaggle Notebooks and linked to GitHub for sharing and further development. Work is still in progress.
 
