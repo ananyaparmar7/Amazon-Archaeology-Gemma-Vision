@@ -43,7 +43,7 @@ The pipeline integrates **geospatial filtering**, **batch inference**, and **int
 
 ---
 
-## 🗺Visualization Outputs
+## Visualization Outputs
 
 - False Colour Composite maps  
 - Interactive detection maps (HTML)  
